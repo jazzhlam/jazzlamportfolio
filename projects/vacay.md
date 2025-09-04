@@ -1,28 +1,20 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/vacay/gamedev.png
+title: "Comp Sci Degree Speed Run"
+date: 2025
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - C#
+  - Unity
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A game I've worked on over the summer during ICS 485."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/gamedevpage.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Comp Sci Degree Speed Run is a game I've worked on over the summer to make with my team. While my main focus for that project was the art direction, learning the process through unity was a very instructive experience.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Comp Sci Degree Speed Run was made over the short time span of both of the summer sessions in Unity and coded in C#. It was made to be a visual novel type of game with different key minigames to allow for more interraction in the game was well as it being relatable to the actual process through CS at UHM.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
