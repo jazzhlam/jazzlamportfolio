@@ -1,54 +1,38 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Jan Svankermajer, Unorthodox Animator"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-04-13
 published: true
 labels:
-  - Engineering
+  - Animation
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+	The artist I have chosen to write about is Jan Švankmajer, known for his film making and his skill at making compelling narratives and social commentary through stop motion, claymation and live action work. I was drawn especially to the absurdist nature in making these films. As an artist I feel like we are meant to create, to either bring forward qualities of something into the light or to make something people have never seen before. Especially with experimental art I believe that in some way the art has to be something to the artist. The works that Jan has made push boundaries in many ways, being social and political message, as well as being very intricately designed films that to my knowledge there isn't really anything else like it. His use of pixelation, claymation, and stop motion really interests me as a creator since I do a lot of work with clay anyway, makes me really want to create something uncanny and dynamic using clay.
+	Jan is a retired Czech film director, animator, writer, playwright and artist. In his childhood he was influenced by his home puppet theater that starting at the age of 8 has kept his mind on puppets for the rest of his life. “His own inspiration comes from his training in puppeteering; his literary influences, especially Lewis Carroll and Edgar Allan Poe; Freudian psychoanalysis; and a strong belief in subverting humanity’s anthropocentrism.” (Babou691). Throughout the years he has made over 30 films and has been awarded and nominated for countless awards, however turning down all the ones granted by the government. Throughout his history, he has done many works using puppets, claymation, stop motion, and live action to make the films have the effect that he wanted. These were commentaries on society as a whole and was able to speak about politics in his own absurd way.
+Some of the sentiments and mentalities that Svankmajer shares were very unique and interesting. There are many instances where he chooses to have humility and do things for the masses in his creations. In an interview with him "I never call myself an animated filmmaker because I am interested not in animation techniques or creating a complete illusion, but in bringing life to everyday objects." (Wendy Jackson). Over the span of his career was awarded many awards and despite being offered them declined any from governments. This did however cause problems for him eventually leading to him being banned from filmmaking in the 1970s for his political films. In an interview he also mentions that there is no such thing as talent and that an artist is able to reach their resources and overcome their block and that a person who is stuck in their professionalism will not be able to. They need to express themselves and will be able to if they want it enough. As someone who has tried hard to pick up many different skills especially in the arts over the years I cannot advocate for this enough. That effort and vision are the things that people need to be able to create good art. That only time and effort are the things that can hold a person back.
+Jan Svankmajer’s style of making absurd and uncanny art is what attracted me to his films. A normal film or a matter of fact reading is boring in comparison. His films bring out emotions from the audience very efficiently with overloading with information and unpredictable narratives. If the film is overly predictable watching it all the way through becomes more of a chore, it makes in general horror or mystery much more immersive than superhero or action movies especially American made. There have been studies done on comedy in the past that also contribute to why it works and the three things that impact it the most are incongruity, superiority, and relief. These three things are very important to keep for comedy to work. These are not used only for comedy however. I found them quite important to use in any type of media to keep people entertained and interested. His use of relatable media while also putting many twists on our expectations keep the audience captivated on his political and social messages.
+I enjoyed watching Jan Svankmajer’s films and found him as a person even more interesting because I was able to see the mindset he has with his film making. Seeing someone with so much skill and creative power to have the humility to be able to speak for the people was very inspiring.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Wikipedia contributors. "Jan Švankmajer." Wikipedia: The Free Encyclopedia. Last 
+modified April 13, 2025. 
+https://en.wikipedia.org/wiki/Jan_%C5%A0vankmajer#cite_note-63.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Centre de Cultura Contemporània de Barcelona. "Jan Švankmajer." CCCB. Accessed 
+April 13, 2025. https://www.cccb.org/en/participants/file/jan-svankmajer/17647.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Encyclopædia Britannica. "Jan Švankmajer." Britannica. Accessed April 13, 2025. 
+https://www.britannica.com/biography/Jan-vankmajer.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Jackson, Wendy. "The Surrealist Conspirator: An Interview With Jan Svankmajer." 
+Animation World Magazine, June 1997. 
+https://www.awn.com/mag/issue2.3/issue2.3pages/2.3jacksonsvankmajer.html.
 
-Here's what I think: the difficult things will always be difficult.
+Vaughn, A. M. "The Original Stop-motion Surrealist: An Introduction to the Short Films 
+of Jan Švankmajer." Babou 691, May 19, 2021. 
+https://babou691.com/2021/05/19/jan-svankmajer/.
 
-## In the context of programming
+IMDb. "Jan Svankmajer - Awards." IMDb. Accessed April 13, 2025. 
+https://www.imdb.com/name/nm0840905/awards/.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
