@@ -29,7 +29,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "g++", ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "g++"]
     }
   ],
   "education": [
