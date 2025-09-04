@@ -1,19 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Getting on with it"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2025-09-03
 published: true
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/image.png">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+As someone who has now been at UH for 4 years in total I have finally lit a fire underneath my behind if you will. Not to get out of college but to learn and make it into the real world I've been somewhat avoiding overall. I've been coasting all this time through it and need to finally get it together in this last spurt through. I will use this Software Engineering class as a springboard to be properly thinking in comparison to all the previous classes.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Most CS classes at UH are focused towards memorization and optimization, however after hearing all the things about this class during the first week, applying myself to this will have more of an impact than calculating 0(N) optimizations. Generating code that works should be the highlight personally.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I look forward to learning more of a real world application.
