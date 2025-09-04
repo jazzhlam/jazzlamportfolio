@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/image.png
+image: img/cotton/image.png
 title: "to be determined"
 date: to be determined
 published: true
