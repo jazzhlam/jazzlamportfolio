@@ -8,14 +8,11 @@
 
     <div class="row g-3">
       {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
-      {% assign limit = 6 %}
       {% for page in essay_pages %}
         {% unless page.draft %}
-          <div class="col-md-4 col-sm-6">
-            {% include essays/essay-card.html page=page %}
-          </div>
+          {% include essays/essay-card.html page=page %}
         {% endunless %}
-        {% if forloop.index == limit %}
+        {% if forloop.index == include.limit %}
           {% break %}
         {% endif %}
       {% endfor %}
