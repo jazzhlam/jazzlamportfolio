@@ -1,0 +1,20 @@
+
+---
+layout: essay
+type: essay
+title: "Design Patterns"
+date: 2025-12-04
+published: true
+labels:
+  - design patterns
+  - software engineering
+  - ICS 314
+---
+
+# Design Patterns:
+
+## What Are Design Patterns?
+Design patterns are reusable solutions to a common problem in software design. Either used in the development of the look of the program but also in the backend to keep things working together and cleanly. This allows developers to solve common problems efficiently and maintain a high level of code quality. For example when building a skyscraper, multiple walls are segmented and put together and then pulled together to form the whole building where each wall is built with the same pattern and modified to fit its purpose. Coding design patterns work similarly where certain modules and segments of code are reusable and can be combined to create a complete software system.
+
+## Design Patterns in My Final Project
+We used many different design patterns in the creation of Study Buddy, our final project, to make sure that continuity and code quality were able to be fulfilled. For example during our signup process, we have a dropdown for the user to select courses that they are enrolled in and later in our process we used the exact same dropdown design pattern to allow users to select their course when they are creating an event. Throughout our web design we did our best to keep a consistent design pattern to make sure that the format and layout looked similar.
