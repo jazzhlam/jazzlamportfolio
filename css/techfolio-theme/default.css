@@ -15,6 +15,12 @@
   --tf-projects-bg-color: var(--bs-gray-100);
 }
 
+/* Global page background image */
+body {
+  background: url('/img/galaxy.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
 /* Format social media icons */
 .tf-social {
   display: inline-block;
@@ -47,4 +53,45 @@ a {
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
+}
+
+/* Ensure project card images fill and crop to the banner area */
+.tf-card-img {
+  width: 100%;
+  height: 225px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+/* Dark card theme */
+.card {
+  background-color: #222;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.card .card-title,
+.card .card-text,
+.card .text-muted {
+  color: #fff !important;
+}
+
+.card .text-muted {
+  color: #bbb !important;
+}
+
+.card .badge {
+  background-color: #444;
+  color: #fff;
+}
+
+.btn.btn-outline-light {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn.btn-outline-light:hover {
+  background-color: #fff;
+  color: #222;
 }

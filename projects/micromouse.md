@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Exploring Algorithms and Problem Solving"
 date: 2024-05-15
-published: true
+published: false
 labels:
   - Algorithms
   - Data Structures
