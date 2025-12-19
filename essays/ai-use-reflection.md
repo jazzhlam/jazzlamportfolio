@@ -13,11 +13,11 @@ labels:
 
 # Reflecting on AI Use in ICS 314
 
-![AI and Education](../img/ai-education.jpg)
+![AI and Education](../img/image.jpg)
 
 ## I. Introduction
 
-Artificial Intelligence has become an increasingly popular tool for many espeically in fields such as education and programming. It has been a good tool to many to efficiently speed up production time and a crutch to others allowing for fast unmonitored generated answers to be used in place of human made. I've had the opportunity to explore how AI technologies can assist in learning, problem-solving, and code development. Throughout this course, I primarily used ChatGPT and GitHub Copilot to help both understanding and to efficiently code.
+Artificial Intelligence has become an increasingly popular tool for many especially in fields such as education and programming. It has been a good tool to many to efficiently speed up production time and a crutch to others allowing for fast unmonitored generated answers to be used in place of human made. I've had the opportunity to explore how AI technologies can assist in learning, problem-solving, and code development. Throughout this course, I primarily used ChatGPT and GitHub Copilot to help both understanding and to efficiently code.
 
 ## II. Personal Experience with AI
 
@@ -39,7 +39,7 @@ For essays, I used ChatGPT for structure and grammar help. I'd ask for a skeleto
 
 ### Final Project
 
-I used AI a lot for the final project. There was a lot of things to implement and do and not enough time in the day to balance it. All code was throughly checked through both test cases, compatability tests on many different branches before merging to main. The base ideas and snippets of code was used to help.
+I used AI a lot for the final project. There was a lot of things to implement and do and not enough time in the day to balance it. All code was thoroughly checked through both test cases, compatibility tests on many different branches before merging to main. The base ideas and snippets of code was used to help.
 
 ### Learning a Concept/Tutorial
 
