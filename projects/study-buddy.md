@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/study-buddy/study-buddy.jpg
 title: "Study Buddy"
 date: 2025-12-18
 published: true
@@ -15,7 +15,7 @@ labels:
 summary: "A collaborative web application for UH Manoa ICS students to organize in-person study sessions in ICSpace."
 ---
 
-<img class="img-fluid" src="../img/image.jpg">
+<img class="img-fluid" src="../img/study-buddy/study-buddy.jpg">
 
 ## Overview
 

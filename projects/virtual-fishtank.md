@@ -52,11 +52,13 @@ Users could select fish, apply hand-drawn textures using drawing tools, and watc
 
 I contributed to several aspects of the project:
 
-**Graphics Programming:** Implemented the fish rendering system and texture mapping pipeline that allowed user-drawn patterns to be dynamically applied to 3D fish models while maintaining proper UV mapping and visual quality.
+**Concept Development and Scripting:** I helped conceptualize and develop the foundational scripts that drove the project's core functionality. This included figuring out the architecture behind how the fishtank ecosystem would work, how fish would behave and interact with textures, and how user input would translate into visual changes. Working through the conceptual challenges of the scripting system was crucial to making the rest of the project possible.
+
+**3D Modeling:** I created 3D models to enhance and improve the visual quality of the scene. This included developing assets for the underwater environment, fish models, and decorative elements that made the fishtank feel more immersive and polished. The models were optimized for real-time rendering on the CyberCANOE's display system.
+
+**Graphics Programming:** Implemented the fish rendering system and texture mapping pipeline that allowed user-drawn patterns to be dynamically applied to 3D models while maintaining proper UV mapping and visual quality.
 
 **Interaction Design:** Designed and developed the user interface for drawing textures, considering the unique challenges of interaction in a large-scale immersive environment where traditional UI paradigms don't always apply.
-
-**Animation System:** Worked on the fish behavior and animation system to create natural, organic swimming movements that responded to the environment and other fish, making the ecosystem feel alive and dynamic.
 
 **CyberCANOE Integration:** Adapted the application to work effectively with the CyberCANOE's panoramic display, ensuring the experience took advantage of the immersive environment rather than simply being stretched across it.
 
