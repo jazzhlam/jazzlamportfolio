@@ -24,12 +24,20 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript"]
+      "name": "Programming Languages",
+      "keywords": [ "Java", "C#", "C++", "C", "Python", "CSS", "HTML"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "g++"]
+      "name": "Development Tools & Practices",
+      "keywords": [ "Github", "Git", "Graphic Design", "Website Management", "Photoshop"]
+    },
+    {
+      "name": "Design & Modeling",
+      "keywords": [ "Onshape CAD", "3D Printing", "3D Modeling", "Image Editing", "Computer Assembly"]
+    },
+    {
+      "name": "Languages",
+      "keywords": [ "Conversational Japanese", "Low-level Mandarin Chinese"]
     }
   ],
   "education": [
@@ -41,21 +49,55 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "'Iolani School, Honolulu, HI",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "2012-08-01",
+      "endDate": "2020-06-01",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Center for Instructional Support",
+      "company": "Center for Instructional Support",
       "position": "Multimedia Technician",
       "website": "https://www.cis.hawaii.edu",
-      "startDate": "2024-06-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-05-01",
+      "endDate": "2024-12-31",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official classroom information website",
-        "Maintain classrooms across campus as well as assist when Instructors have issues"
+        "Management and maintenance of classrooms and classroom technology",
+        "Customer service and understanding of loanable technology",
+        "Team coordination for classroom repairs",
+        "Website Management"
       ]
     },
+    {
+      "company": "Kaneohe Kikuya",
+      "position": "Prep Cook / Dishwasher",
+      "website": "",
+      "startDate": "2022-05-14",
+      "endDate": "2022-08-07",
+      "summary": "",
+      "highlights": [
+        "Team coordination in preparing food as well as making sure plates and cooking utensils were ready for use",
+        "Communication through language barrier as employment spoke mainly Vietnamese and struggled in English"
+      ]
+    },
+    {
+      "company": "State of Hawaii Department of Education - Reprographics Section",
+      "position": "Student Help",
+      "website": "",
+      "startDate": "2017-01-01",
+      "endDate": "2019-12-31",
+      "summary": "",
+      "highlights": [
+        "Assisted with the distribution process of printed goods for the DOE of Oahu"
+      ]
+    }
   ],
   "awards": [
     {

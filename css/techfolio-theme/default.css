@@ -105,3 +105,16 @@ h1, h2, h3, h4, h5, h6, p, li {
   background-color: #fff;
   color: #222;
 }
+
+/* Ensure navbar stays dark regardless of Bootstrap defaults */
+header.navbar.bg-dark,
+footer.navbar.bg-dark {
+  background-color: #0d0f12 !important;
+  border-color: #222 !important;
+}
+
+header.navbar .navbar-brand,
+header.navbar .nav-link,
+footer.navbar .nav-link {
+  color: #fff !important;
+}
