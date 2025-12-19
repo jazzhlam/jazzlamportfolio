@@ -6,19 +6,19 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--bs-blue);
+  --bs-link-color: #9ecfff;
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--bs-gray-200);
-  --tf-projects-bg-color: var(--bs-gray-100);
+  --tf-page-bg-color: #000;
+  --tf-footer-bg-color: #111;
+  --tf-projects-bg-color: #111;
 }
 
 /* Global page background image */
 body {
-  background: url('/img/galaxy.png') no-repeat center center fixed;
-  background-size: cover;
+  background-color: #000;
+  color: #fff;
 }
 
 /* Format social media icons */
@@ -37,6 +37,11 @@ body {
 
 a {
   text-decoration: none;
+  color: var(--bs-link-color);
+}
+
+a:hover {
+  color: #cfe7ff;
 }
 
 @media (max-width: 500px) {
@@ -53,6 +58,11 @@ a {
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
+}
+
+/* Ensure standard text is white for readability on dark background */
+h1, h2, h3, h4, h5, h6, p, li {
+  color: #fff;
 }
 
 /* Ensure project card images fill and crop to the banner area */
