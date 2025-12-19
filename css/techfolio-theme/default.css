@@ -56,8 +56,8 @@ a:hover {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
-  border-top: none;
+  background-color: transparent;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 /* Ensure standard text is white for readability on dark background */
@@ -76,9 +76,9 @@ h1, h2, h3, h4, h5, h6, p, li {
 
 /* Dark card theme */
 .card {
-  background-color: #222;
+  background-color: #0f0f11;
   color: #fff;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .card .card-title,
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6, p, li {
 }
 
 .card .badge {
-  background-color: #444;
+  background-color: #1f1f22;
   color: #fff;
 }
 
